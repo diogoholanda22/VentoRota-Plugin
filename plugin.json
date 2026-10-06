@@ -1,0 +1,16 @@
+{
+  "name": "windy-plugin-helo-routes",
+  "version": "1.0.0",
+  "icon": "🧭",
+  "title": "HELO Routes",
+  "description": "HELO routes with waypoint wind forecast from 2000 to 6000 ft.",
+  "author": "Diogo",
+  "desktopUI": "rhpane",
+  "mobileUI": "fullscreen",
+  "desktopWidth": 390,
+  "routerPath": "/helo-routes",
+  "private": true,
+  "built": 1791310945062,
+  "builtReadable": "2026-10-06T18:22:25.062Z",
+  "screenshot": "screenshot.jpg"
+}
